@@ -69,30 +69,18 @@ This documentation can help users and developers understand how to set up, run, 
 
 
 # Screenshots (Add at least 3)
-<img width="1080" src="https://github.com/user-attachments/assets/">
-*Add caption explaining what this shows*
+<img width="1080" src="WhatsApp Image 2024-11-03 at 07.45.01_10026524.jpg">
+*home screen*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-
+<img width="1080" src="WhatsApp Image 2024-11-03 at 07.48.25_7b2f2ba7.jpg">
+*after recognizing input speech screen*
 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+(https://drive.google.com/drive/folders/1Dki5bWJwUK6xEKvViLkzxVo7JeLgjpmO?usp=sharing)
+video demonstrates the overall working if the project
 
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
